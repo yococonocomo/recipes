@@ -1,6 +1,6 @@
 # Ingredients
-- avocado
+* avocado
 * lemon
-- tomato
+* tomato
 # Instructions
 Put it *all* in the blender
